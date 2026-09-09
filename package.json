@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "packageManager": "pnpm@11.25.0",
+  "packageManager": "pnpm@12.3.4",
   "dependencies": {
     "@react-three/drei": "^10.7.6",
     "@react-three/fiber": "^9.4.2",
